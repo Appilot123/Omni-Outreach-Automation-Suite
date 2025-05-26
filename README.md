@@ -1,5 +1,13 @@
 <h1 align="center">Omni Outreach Automation Suite</h1>
 
+## Project Overview:
+This project is an all-in-one, cross-platform outreach automation suite tailored for e-commerce performance brands looking to scale their prospecting on LinkedIn, Facebook, Instagram, and Email. It handles everything from connection requests and personalized messaging to follow-ups and engagement through DMs and comment funnels—without tripping platform alarms. Designed to feel human, scale fast, and stay stealthy, this solution tackles the hardest part of outreach: doing it at volume without sounding like a bot.
+
+## Core Features:
+- **Platform-Safe Automation:** Built-in proxy rotation, fingerprint spoofing, and randomized delays ensure platform compliance and reduce the risk of bans or shadowbans.
+- **Personalized at Scale:** Dynamic templating and persona-based messaging create human-like conversations that convert—without sounding robotic.
+- **Unified Campaign Dashboard:** Seamlessly integrates LinkedIn, IG/FB, and Email outreach into one dashboard with CRM-compatible exports and analytics-ready data logs.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -63,13 +71,6 @@
 
 <div align="left">
 
-## Project Overview:
-This project is an all-in-one, cross-platform outreach automation suite tailored for e-commerce performance brands looking to scale their prospecting on LinkedIn, Facebook, Instagram, and Email. It handles everything from connection requests and personalized messaging to follow-ups and engagement through DMs and comment funnels—without tripping platform alarms. Designed to feel human, scale fast, and stay stealthy, this solution tackles the hardest part of outreach: doing it at volume without sounding like a bot.
-
-## Core Strengths:
-- **Platform-Safe Automation:** Built-in proxy rotation, fingerprint spoofing, and randomized delays ensure platform compliance and reduce the risk of bans or shadowbans.
-- **Personalized at Scale:** Dynamic templating and persona-based messaging create human-like conversations that convert—without sounding robotic.
-- **Unified Campaign Dashboard:** Seamlessly integrates LinkedIn, IG/FB, and Email outreach into one dashboard with CRM-compatible exports and analytics-ready data logs.
 
 ## Features List:
 | Feature                 | Description                                                                                   |
